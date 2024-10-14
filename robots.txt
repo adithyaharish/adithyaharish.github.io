@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://karthikcd7.github.io/adithyaharish.github.io/sitemap-index.xml
-Host: https://karthikcd7.github.io
+Sitemap: https://adithyaharish.github.io/sitemap-index.xml
+Host: https://adithyaharish.github.io
