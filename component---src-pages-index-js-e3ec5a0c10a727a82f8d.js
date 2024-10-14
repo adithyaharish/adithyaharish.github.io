@@ -1,0 +1,2 @@
+(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[678],{7704:function(e,t,l){"use strict";l.r(t);var n,r=l(5761),c=l(7294),a=l(9),o=l(4741);const u=a.ZP.main(n||(n=(0,r.Z)(["\n  counter-reset: section;\n"])));t.default=e=>{let{location:t}=e;return c.createElement(o.Ar,{location:t},c.createElement(u,{className:"fillHeight"},c.createElement(o.VM,null),c.createElement(o.CL,null),c.createElement(o.pe,null),c.createElement(o.pj,null),c.createElement(o.r8,null)))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-e3ec5a0c10a727a82f8d.js.map

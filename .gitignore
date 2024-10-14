@@ -1,0 +1,8 @@
+# Project dependencies
+.cache
+yarn-error.log
+package-lock.json
+# Build directory
+.DS_Store
+node_modules
+.vscode/
