@@ -2,7 +2,7 @@ const config = require('./src/config');
 const _ = require("lodash")
 
 module.exports = {
-  pathPrefix: '/',
+  pathPrefix: '/adithyaharish.github.io',
   siteMetadata: {
     title: 'Karthik Chintamani Dileep',
     description:
