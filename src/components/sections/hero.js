@@ -71,18 +71,18 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Karthik Chintamani Dileep.</h2>;
+  const two = <h2 className="big-heading">Adithya Harish.</h2>;
   const three = <h3>I build the future through code, one line at a time.</h3>;
   const four = (
     <>
       <p>
-        I am an innovative software engineer skilled in building cutting-edge digital products with a focus on accessibility and user experience.
+        I am an innovative software engineer skilled in building Software products with a focus on accessibility and user experience.
       </p>
     </>
   );
   const five = (
   <p>
-  I’m actively looking for full time opportunities in software engineering starting June 2024. <br></br> Reach out to me at <a href={`mailto:${email}`}>{email}</a>.
+  I’m actively looking for full-time/ intern opportunities in software engineering starting May 2025. <br></br> Reach out to me at <a href={`mailto:${email}`}>{email}</a>.
   </p>
   );
   const six = (
@@ -93,10 +93,10 @@ const Hero = () => {
       <a className="email-link" href={`mailto:${email}`} target="_blank" rel="noreferrer">
       Email
       </a>
-      <a className="email-link" href="https://www.linkedin.com/in/cd-karthik" target="_blank" rel="noreferrer" >
+      <a className="email-link" href="https://www.linkedin.com/in/adithya-harish" target="_blank" rel="noreferrer" >
         <Icon name="Linkedin" />
       </a>
-      <a className="email-link" href="https://www.github.com/karthikcd7" target="_blank" rel="noreferrer">
+      <a className="email-link" href="https://www.github.com/adithyaharish" target="_blank" rel="noreferrer">
       <Icon name="GitHub" />
       </a>
     </div>

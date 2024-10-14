@@ -125,7 +125,8 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Java', 'C++', 'SQL, NoSQL', 'Tensorflow', 'Spark', 'Kafka', 'Pandas', 'Numpy', 'Scikit-learn', 'NLTK', 'AWS'];
+  const skills = ['Python', 'Java', 'C++', 'SQL', 'Typescript', 'Javascript',  'Git', 'CI/CD', 'Kubernetes',  'Agile', 'Full-Stack', 
+  'Django', 'Flask', 'Spring Boot', 'React', 'Angular', 'Node.js', 'Karate', 'AWS' ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,31 +135,22 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            {/* <p>
-              Hello! My name is Karthik and I am a motivated computer science graduate student at Northeastern University 
-              leveraging strong technical capabilities and proven ability to translate complex concepts into intuitive interfaces. 
-              I am equipped with a Bachelor of Technology in Computer Science focused on honing OOP methodologies, algorithms, data structures, 
-              and machine learning foundations.
-            </p>
+            {}
 
-            <p>
-            Currently expanding expertise in web development, cloud computing, and natural language processing 
-            while completing a Master of Science in Computer Science. I am passionate about developing AI-powered 
-            solutions that enhance efficiency and accessibility. 
-            </p> */}
+            <p>Hello! I'm Adithya Harish, a graduate student in Computer Science at Virginia Tech,
+               with a background in Bachelor of Technology in Information Technology.</p>
 
-            <p>Hello! My name is Karthik and I'm a tech enthusiast with a knack for blending the latest 
-              AI/ML capabilities with scalable, cloud-driven architectures to build game-changing applications.
-               My journey has taken me from academic research labs to fast-paced startups, picking up a 
-               diverse skill set along the way.</p>
-
-            <p>Some of my noteworthy creations include a cutting-edge multimodal movie recommendation 
-              system powered by large language models, a full-stack restaurant management solution, and 
-              an automated clinical diagnosis system using deep learning (even got it published!).</p>
+            <p> Some of my noteworthy creations include an AI-powered tutoring system, which is the focus of my thesis project. 
+              This system leverages prompt engineering, LLMs, and machine learning to deliver adaptive, 
+              step-by-step hints for programming challenges. By employing a Chain of Thought approach, it guides students through 
+              problem-solving, offering personalized feedback based on their progress to create a more engaging and effective learning 
+              experience.</p>
 
             <p>I'm a big believer in agile methodologies, DevOps mindset, and putting the user first. 
               I thrive in dynamic, collaborative environments where I can mentor teams, embrace 
               entrepreneurial thinking, and channel my creative energy into tackling ambitious challenges.</p>
+
+              <p>When I'm not coding, you'll find me playing cricket, badminton or watching hand-picked TV overnight.</p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
@@ -172,8 +164,9 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpeg"
-              width={500}
+              src="../../images/me.jpg"
+              width={700}
+              height={800}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"

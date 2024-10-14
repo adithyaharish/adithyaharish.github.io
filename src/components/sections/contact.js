@@ -63,7 +63,7 @@ const Contact = () => {
       <p>
         I’m actively exploring new opportunities and my inbox is ready and waiting. 
         Whether you're seeking insights, have a query, or simply want to drop a 'hello',
-        I'm here and eager to connect! Expect a swift response—I'm committed to getting back to you as promptly as possible!
+        I'm here and eager to connect!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
