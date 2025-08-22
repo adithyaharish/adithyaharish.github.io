@@ -1,13 +1,14 @@
 
 version                  : "1.1.11"  #Major_Publish.Feature_Added.Content_Update
 locale                   : "en-US"
+remote_theme             : "mmistakes/minimal-mistakes"
 title                    : "Adithya Harish"
 title_separator          : " "
 name                     : &name "Adithya Harish"
 description              : &description "Software Engineer | MS CS @ Virginia Tech"
-url                      : https://adithya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://adithyaharish.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adithyaharish/adithya.github.io"
+repository               : "adithyaharish/adithyaharish.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
