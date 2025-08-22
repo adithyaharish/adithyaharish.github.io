@@ -1,23 +1,30 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 <!-- For an updated list, please check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">my Google Scholar profile</a>.</u> -->
 
+# Publications
 
-# Papers
 
-<!-- - **Hard Negative Sampling Strategies for Contrastive Representation Learning**, arXiv preprint  
-Afrina Tabassum, Muntasir Wahed, Hoda Eldardiry, Ismini Lourentzou  
-[paper](https://arxiv.org/abs/2206.01197)
+- **Covid-19: Comparison of time series forecasting models and hybrid ARIMA-ANN**   
+Rising Threats in Expert Applications and Solutions: Proceedings of FICR-TEAS 2022 • [Springer]  
+N Hema Priya, SM Adithya Harish, N Ravi Subramanian   
+[paper](https://link.springer.com/chapter/10.1007/978-981-19-1122-4_59)  
 
-# Techincal Notes and Presentations
+- **Improving security with federated learning**   
+2021 International Conference on Computational Performance • [IEEE Xplore]    
+N Hema Priya, SM Adithya Harish, Shymala Gowri S    
+[paper](https://ieeexplore.ieee.org/document/9752023) 
 
-- **Deep Learning for Social Text Mining** [poster](/files/poster_Alibaba___Deep_Learning_for_Social_Media_Text_Mining.pdf) at the Alibaba Technology Forum, September 2017, Seattle, WA
-- **Markov Games and Reinforcement Learning** [review](/files/games.pdf) 
-for CS598RM Algorithmic Game Theory
-- **Belief Propagation, Robust Reconstruction and Optimal Recovery of Block Models, E. Mossel et al., COLT 2014** [presentation](/files/MLTheorycourse_Dec2014_BeliefProp_presentation.pdf) for CS598RM Algorithmic Game Theory -->
+
+- **Covid-19: Comparison of time series forecasting models and hybrid ARIMA-ANN**   
+Proceedings of the First International Conference on Combinatorial and Optimization, ICCAP 2021  
+N Hema Priya, SM Adithya Harish, N Ravi Subramanian, Shymala Gowri S  
+[paper](https://eudl.eu/doi/10.4108/eai.7-12-2021.2314556) 
+
+
 

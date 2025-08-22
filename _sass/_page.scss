@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 0.5em;
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -18,9 +18,9 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(11.5 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include suffix(0 of 12);
   }
 
   .page__inner-wrap {
@@ -56,7 +56,17 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 18px;
+  }
+
+  /* Make sure all text elements have consistent size */
+  p, li, dl, ul, ol {
+    font-size: 18px;
+  }
+
+  /* Ensure content within lists matches paragraph size */
+  li p {
+    font-size: inherit;
   }
 
   /* paragraph indents */

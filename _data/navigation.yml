@@ -1,25 +1,28 @@
 # main links links
-main:
-  - #title: "Publications"
-    #url: /publications/  
+main: 
 
-  - title: "Professional Experience"
+  - title: "Experience"
     url: /experience/
     
   - title: "Projects"
     url: /portfolio/
+  
+  - title: "Publications"
+    url: /publications/ 
 
-  #- title: "CS5604F21"
-  #  url: /CS5604F21/
+  - title: "Education"
+    url: /education/
 
-  - #title: "Talks"
-    #url: /media/
+  - title: "Research"
+    url: /research/
 
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Skills"
+    url: /skills/
+
+  - title: "About Me"
+    url: /about-me/
     
-  #- title: "CV"
-  #  url: /cv/
+
     
   #- title: "Guide"
   #  url: /markdown/

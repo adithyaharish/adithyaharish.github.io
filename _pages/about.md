@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: ""
 excerpt: "About me"
@@ -8,29 +9,24 @@ redirect_from:
   - /about.html
 ---
 
+I'm a software engineer who loves transforming ideas into user-friendly products. Over the course of my work, I've learned that writing code is only part of the story — what excites me just as much is understanding why the software matters, how it helps the business, and how people actually use it.
 
-Previously, a software developer at Hansen Technologies, where I worked on developing and configuring an operations support system (OSS) for telecommunications service providers.  
-For the summer of 2023, I joined Hansen again on a contract basis and contributed toward streamlining the training process for new hires. By creating well-structured training modules and comprehensive documentation, I helped reduce the onboarding time so that new team members could quickly start contributing to the project.  
+I value collaboration and thrive when working with cross-functional teams, where diverse perspectives shape better products.
 
-Please feel free to visit other sections of this site to know more about me!
+## What I Do
+**Software Development** – Building reliable, high-performance systems, scalable APIs, and full-stack applications    
+**AI & ML** – Exploring intelligent solutions that simplify complex workflows and enhance user experience    
+**Systems Thinking** – Designing and architecting systems that are reliable, scalable, and maintainable
 
-# Talks
-- **Webinar on Innovative and Collaborative Approaches for Scaling Capstone Projects**, at the Institution’s Innovation Council, Modern Education Society's College of Engineering (IIC MESCOE)   
-Introduced undergraduate students to various approaches useful for scaling capstone projects. Covered concepts on REST APIs, Docker, Kubernetes and Jenkins.   
-[Recording](https://youtu.be/oJxcZPTjklg)
+Please feel free to explore the other sections of this site to know more about me!
 
-# Publications
+## News
+**December, 2025:** Graduate from Virginia Tech with a master's degree in computer science!    
+**May, 2025:** Joined Marriott International as a SWE Intern for the summer.    
+**August, 2023:** Thrilled to join [Virginia Tech](https://www.vt.edu/) for MS in CS!    
+**May, 2022:** Graduated from PSG College of Technology, with a bachelor's degree in Information Technology.    
+**January, 2022:** Joined Fidelity Investments as a Software Developer.   
+**August, 2018:** A 12th-grade student with 96% figuring out the next step — chose to pursue Computer Science, and that decision shaped everything that followed.
 
-- **A Comparative Study of Various Key-Point Detector-Descriptor Algorithms for Augmented Reality Applications**, International Conference on Emerging Trends in Engineering and Technology (ICETET), Nashik   
-Dr. Jayshree Pansare, Kanad Naleshwarkar, Nitish Prajapati, Aditya Muley   
-[Paper](/files/full-paper_ICETET.pdf)
-
-
-
-# News
-- **December, 2024:** Graduated from Virginia Tech with a master's degree in computer science!
-- **May, 2023:** Joined Hansen Technologies again as a software developer on a contract basis for the summer.
-- **January, 2023:** Thrilled to join [Virginia Tech](https://www.vt.edu/) for MEng in CS course!
-- **August, 2022:** Gave a talk at the [IIC MESCOE](https://mescoe.mespune.org/institutions-innovation-council-iic-mescoe/) on Innovative and Collaborative Approaches for Scaling Capstone Projects. Recording is available [here](https://youtu.be/oJxcZPTjklg).
-- **November, 2020:** Joined Hansen Technologies as an associate software developer.
-- **April, 2020:** Graduated from Savitribai Phule Pune University (Modern Education Society's College of Engineering), with a bachelor's degree in computer engineering.
+---
+**Note:** *Site was last updated on Aug 21,2025*
