@@ -15,7 +15,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
