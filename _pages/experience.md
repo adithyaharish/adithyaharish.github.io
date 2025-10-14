@@ -18,7 +18,7 @@ author_profile: true
 
 
 **[Marriott International](https://www.marriott.com/default.mi)**{: .section-title}       
-**FLEX Associate Software Engineer**       
+**Associate Software Engineer**       
 *Bethesda, MA, USA (May 2025 – Present)*                                                       
 - Architected, developed, and deployed an enterprise-wide Business Decision Tool using Java Spring Boot, PostgreSQL, and Docker, enabling 10+ Internal Marriott systems to dynamically evaluate business logic— fully decoupling business rule management from application code.
 - Built a rule configurator and simulation dashboard using React, empowering business users to define, test, and validate rules in real-time, streamlining collaboration across multiple departments and improving workflow efficiency.
@@ -26,7 +26,7 @@ author_profile: true
 <br>
 
 **[Fidelity Investments](https://www.fidelity.com/)**{: .section-title}    
-**Software Engineer** (1 year)      
+**Software Engineer**      
 *Bangalore, India (August 2022 – June 2023) | 1 year*                                                                     
 - Involved in Quantitative Research and Investments Technology (QRIT) team, primarily responsible for driving research, and development of innovative quant strategies/solutions. 
 - Developed Java tests using the Karate Framework and integrated with Jenkins, decreasing manual testing time.

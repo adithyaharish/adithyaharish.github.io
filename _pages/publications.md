@@ -21,7 +21,7 @@ N Hema Priya, SM Adithya Harish, Shymala Gowri S
 [paper](https://ieeexplore.ieee.org/document/9752023) 
 
 
-- **Covid-19: Comparison of time series forecasting models and hybrid ARIMA-ANN**   
+- **Summarization of Customer Reviews in Web Services using Natural Language Processing**   
 Proceedings of the First International Conference on Combinatorial and Optimization, ICCAP 2021  
 N Hema Priya, SM Adithya Harish, N Ravi Subramanian, Shymala Gowri S  
 [paper](https://eudl.eu/doi/10.4108/eai.7-12-2021.2314556) 

@@ -7,15 +7,19 @@ author_profile: true
 
 # Projects
 
+- **CrediWise - Use the right card,everytime (Hackathon) (2025)**
+> Built an AI-powered Chrome extension + dashboard that automatically helps you pick the best credit card at checkout. It auto detects checkout pages, pulls real-time card offers, and instantly recommends the card that saves you the most. Awarded Capital One's Best Financial Hack and best Startup Sprint among 450+ participants.
+[Devpost Link](https://devpost.com/software/crediwise-use-the-right-card-every-time)     
+**Skills:** Python · React + Vite · Manifest V3 · MCP agent  · Llama · Supabase
 
 - **DocuGen – AI-Powered GitHub Documentation Generator (2025)**
 > Developed a tool that generates adaptive documentation for GitHub repos, with setup guides and branch comparisons across multilanguage codebases. Improves code comprehension and reduce onboarding time by automating documentation workflows for developers.  
-[Report Link](https://github.com/adithyaharish/DocuGen_UI_Backup)     
+[Github Link](https://github.com/adithyaharish/DocuGen_UI_Backup)     
 **Skills:** React.js · Python · Large Language Models (LLM) · Software Deployment · Github API
 
 - **Networking App for Marriott International (Hackathon) (Oct 2024)**
 > Led a 36-hour app development project aimed at connecting Marriott guests with similar interests to foster a more social hotel experience. Utilized Firebase, Python Flask and Flutter and Integrated machine learning models to match user preferences. Awarded Honorable Mention for innovative design and execution among 100+ teams.  
-[Report Link](https://devpost.com/software/codefest-ai-pioneer)    
+[Devpost Link](https://devpost.com/software/codefest-ai-pioneer)    
 **Skills:** Firebase · Python · Flask · Flutter · ML
 
 
@@ -33,7 +37,3 @@ author_profile: true
 > Designed, developed and deployed the official website for Kilig Events, a professional event management company in Madurai. Built with React.js and optimized for performance and SEO to ensure visibility and smooth user experience.  
 [GitHub Repo](https://github.com/adithyaharish/kiligevents)   
 **Skills:** React.js · SQL · Search Engine Optimization (SEO)
-
-- **Product Recommendation system (2021)**  
-> Developed a content-based recommendation system for Boston Creative Company, a design firm based in Coimbatore. Utilized machine learning and natural language processing techniques to cluster semantically similar product descriptions and generate relevant product suggestions based on user input.    
-[GitHub Repo](https://github.com/adithyaharish/product-recommendation)  
