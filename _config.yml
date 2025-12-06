@@ -54,7 +54,7 @@ author:
   avatar           : "adithya.png"
   bio              : "Software Engineer | MS CS @ Virginia Tech"
   location         : "VA, United States"
-  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=lYxKCWgAAAAJ&hl=en"
   email            : "adithyaharish10@gmail.com"
   cv               : "/files/Adithya_Harish_CV.pdf"
   uri              :
@@ -165,15 +165,6 @@ defaults:
   - scope:
       path: ""
       type: CS5604F21
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
     values:
       layout: single
       author_profile: true

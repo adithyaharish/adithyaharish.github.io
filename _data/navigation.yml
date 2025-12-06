@@ -6,9 +6,6 @@ main:
     
   - title: "Projects"
     url: /portfolio/
-  
-  - title: "Publications"
-    url: /publications/ 
 
   - title: "Education"
     url: /education/
