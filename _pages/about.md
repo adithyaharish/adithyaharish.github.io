@@ -21,12 +21,12 @@ I value collaboration and thrive when working with cross-functional teams, where
 Please feel free to explore the other sections of this site to know more about me!
 
 ## News
-**December, 2025:** Graduated from Virginia Tech with a fully-funded master's degree in computer science!    
+**December, 2025:** Graduated from Virginia Tech with a master's degree in computer science!    
 **May, 2025:** Joined Marriott International as a SWE Intern for the summer.    
-**August, 2023:** Thrilled to join [Virginia Tech](https://www.vt.edu/) for MS in CS!    
+**August, 2023:** Startedmy MS in CS from [Virginia Tech](https://www.vt.edu/)!    
 **May, 2022:** Graduated from PSG College of Technology, with a bachelor's degree in Information Technology.    
 **January, 2022:** Joined Fidelity Investments as a Software Developer.   
 **August, 2018:** A 12th-grade student figuring out the next step — chose to pursue Computer Science from PSG Tech, and that decision shaped everything that followed.
 
 ---
-**Note:** *Site was last updated on Aug 21,2025*
+**Note:** *Site was last updated on Dec,2025*

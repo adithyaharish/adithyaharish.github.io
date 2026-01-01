@@ -183,9 +183,11 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    transition: all 0.2s ease;
 
     &:hover {
       color: $masthead-link-color-hover;
+      transform: scale(1.05);
     }
   }
 
