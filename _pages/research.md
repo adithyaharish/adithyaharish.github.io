@@ -27,7 +27,7 @@ Advisor: [Dr. Eli Tilevich](https://people.cs.vt.edu/~tilevich/)
 Virginia Tech, Department of Computer Science  
 Feb 2024 - Dec 2025   
 🔹Developing an AI-powered tutoring system that provides adaptive, pedagogically aligned hints for secure coding exercises. Combines LLM control, prompt engineering, Software Engineering and ML personalization to guide student learning without giving direct answers. This work aims to make generative AI an educator’s ally that helps students get up to speed with this critical tool in the modern programmer’s professional toolkit.     
-
+[🔗 Thesis Link](https://vtechworks.lib.vt.edu/items/e92ad7be-78b6-4501-8fa6-2f13dc73b985)
 <br>
 
 **Graduate Teaching Assistant**{: .section-title}  

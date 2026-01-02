@@ -23,7 +23,7 @@ Please feel free to explore the other sections of this site to know more about m
 ## News
 **December, 2025:** Graduated from Virginia Tech with a master's degree in computer science!    
 **May, 2025:** Joined Marriott International as a SWE Intern for the summer.    
-**August, 2023:** Startedmy MS in CS from [Virginia Tech](https://www.vt.edu/)!    
+**August, 2023:** Started MS in CS from [Virginia Tech](https://www.vt.edu/)!    
 **May, 2022:** Graduated from PSG College of Technology, with a bachelor's degree in Information Technology.    
 **January, 2022:** Joined Fidelity Investments as a Software Developer.   
 **August, 2018:** A 12th-grade student figuring out the next step — chose to pursue Computer Science from PSG Tech, and that decision shaped everything that followed.

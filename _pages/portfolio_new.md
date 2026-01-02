@@ -7,13 +7,13 @@ author_profile: true
 
 <style>
 .projects-container {
-  max-width: 1000px;
+  max-width: 950px;
   margin: 0 auto;
 }
 
 .projects-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: flex;
+  flex-direction: column;
   gap: 30px;
   margin-top: 30px;
 }
@@ -26,7 +26,8 @@ author_profile: true
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   transition: all 0.3s ease;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  height: 260px
 }
 
 .project-card:hover {
@@ -35,21 +36,20 @@ author_profile: true
 }
 
 .project-header {
-  padding: 20px 20px 15px 20px;
-  border-bottom: 2px solid #f0f0f0;
+  margin-bottom: 2px;
 }
 
 .project-title {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 700;
   color: #2c3e50;
-  margin: 0;
+  margin: 0 0 0 0;
   line-height: 1.3;
 }
 
 .project-image {
-  width: 100%;
-  height: 200px;
+  width: 400px;
+  min-width: 350px;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   display: flex;
   align-items: center;
@@ -57,6 +57,14 @@ author_profile: true
   color: white;
   font-size: 14px;
   font-weight: 500;
+  overflow: hidden;
+}
+
+.project-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .project-content {
@@ -76,6 +84,7 @@ author_profile: true
 
 .project-footer {
   margin-top: auto;
+  margin-bottom: 10px;
 }
 
 .project-skills {
@@ -100,13 +109,14 @@ author_profile: true
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
+  margin-bottom: 10px;
 }
 
 .project-link {
   display: inline-block;
-  color: #52adc8;
+  color: #2b56b4ff;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 14px;
   transition: color 0.2s;
 }
@@ -144,13 +154,14 @@ author_profile: true
 }
 
 @media (max-width: 768px) {
-  .projects-grid {
-    grid-template-columns: 1fr;
-    gap: 20px;
+  .project-card {
+    flex-direction: column;
   }
   
   .project-image {
-    height: 180px;
+    width: 100%;
+    min-width: 100%;
+    height: 200px;
   }
   
   .project-bottom {
@@ -167,13 +178,13 @@ author_profile: true
 <div class="projects-grid">
 
 <div class="project-card">
-  <div class="project-header">
-    <h3 class="project-title">CrediWise - Use the right card, everytime</h3>
-  </div>
   <div class="project-image">
-    [Project Image - Add Later]
+    <img src="/images/projects/crediwise.jpg" alt="CrediWise" />
   </div>
   <div class="project-content">
+    <div class="project-header">
+      <h3 class="project-title">CrediWise - Use the right card, everytime</h3>
+    </div>
     <p class="project-description">
       Built an AI-powered Chrome extension + dashboard that automatically helps you pick the best credit card at checkout. It auto detects checkout pages, pulls real-time card offers, and instantly recommends the card that saves you the most. Awarded Capital One's Best Financial Hack and best Startup Sprint among 450+ participants.
     </p>
@@ -198,13 +209,13 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-header">
-    <h3 class="project-title">DocuGen – AI-Powered GitHub Documentation Generator</h3>
-  </div>
   <div class="project-image">
-    [Project Image - Add Later]
+    <img src="/images/projects/docugen.jpg" alt="DocuGen" />
   </div>
   <div class="project-content">
+    <div class="project-header">
+      <h3 class="project-title">DocuGen – AI-Powered GitHub Documentation Generator</h3>
+    </div>
     <p class="project-description">
       Developed a tool that generates adaptive documentation for GitHub repos, with setup guides and branch comparisons across multilanguage codebases. Improves code comprehension and reduce onboarding time by automating documentation workflows for developers.
     </p>
@@ -227,13 +238,13 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-header">
-    <h3 class="project-title">Networking App for Marriott International</h3>
-  </div>
   <div class="project-image">
-    [Project Image - Add Later]
+    <img src="/images/projects/marriott.jpg" alt="Networking App for Marriott" />
   </div>
   <div class="project-content">
+    <div class="project-header">
+      <h3 class="project-title">Networking App for Marriott International</h3>
+    </div>
     <p class="project-description">
       Led a 36-hour app development project aimed at connecting Marriott guests with similar interests to foster a more social hotel experience. Utilized Firebase, Python Flask and Flutter and Integrated machine learning models to match user preferences. Awarded Honorable Mention for innovative design and execution among 100+ teams.
     </p>
@@ -257,13 +268,13 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-header">
-    <h3 class="project-title">Empirical study on Stack Overflow vs ChatGPT on Security-related questions</h3>
-  </div>
   <div class="project-image">
-    [Project Image - Add Later]
+    <img src="/images/projects/security-study.jpg" alt="Security Study" />
   </div>
   <div class="project-content">
+    <div class="project-header">
+      <h3 class="project-title">Empirical study on Stack Overflow vs ChatGPT on Security-related questions</h3>
+    </div>
     <p class="project-description">
       Conducted a focused study comparing security-related programming queries using PMD tools, applying data mining techniques to identify a 70% security violation rate in ChatGPT vs. 18% in Stack Overflow, highlighting AI's limitations in secure coding.
     </p>
@@ -284,13 +295,13 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-header">
-    <h3 class="project-title">Self-driving cars with Reinforcement Q-Learning</h3>
-  </div>
   <div class="project-image">
-    [Project Image - Add Later]
+    <img src="/images/projects/selfdriving.png" alt="Self-driving cars" />
   </div>
   <div class="project-content">
+    <div class="project-header">
+      <h3 class="project-title">Self-driving cars with Reinforcement Q-Learning</h3>
+    </div>
     <p class="project-description">
       Engineered a simulation environment using OpenAI Gym to model self-driving car dynamics, utilizing Q-learning to enhance decision-making processes and achieve optimal system performance, resulting in improved route decision efficiency by 15% compared to SARSA, and Neural Network-based approaches.
     </p>
@@ -311,13 +322,13 @@ author_profile: true
 </div>
 
 <div class="project-card">
-  <div class="project-header">
-    <h3 class="project-title">Kilig Events Official Website</h3>
-  </div>
   <div class="project-image">
-    [Project Image - Add Later]
+    <img src="/images/projects/kilig.jpg" alt="Kilig Events" />
   </div>
   <div class="project-content">
+    <div class="project-header">
+      <h3 class="project-title">Kilig Events Official Website</h3>
+    </div>
     <p class="project-description">
       Designed, developed and deployed the official website for Kilig Events, a professional event management company in Madurai. Built with React.js and optimized for performance and SEO to ensure visibility and smooth user experience.
     </p>
