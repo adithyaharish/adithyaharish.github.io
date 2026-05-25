@@ -21,9 +21,9 @@ author_profile: true
 *Bethesda, MA, USA | (Present)*
 
 **Associate Software Engineer** *(Jan 2026 - Present)*
+- Building a secure admin portal for configuring loyalty partners and hotel properties using Java WebFlux, React.js, CI/CD Harness pipelines, and SQL.
 
-
-**FLEX Software Engineer Intern** *(Jun 2025 – Dec 2025)*                                                       
+**FLEX Software Engineer** *(Jun 2025 – Dec 2025)*                                                       
 - Architected, developed, and deployed an enterprise-wide Business Decision Tool using Java Spring Boot, PostgreSQL, and Docker, enabling 10+ Internal Marriott systems to dynamically evaluate business logic— fully decoupling business rule management from application code.
 - Built a rule configurator and simulation dashboard using React, empowering business users to define, test, and validate rules in real-time, streamlining collaboration across multiple departments and improving workflow efficiency.
 
@@ -32,7 +32,7 @@ author_profile: true
 **[Fidelity Investments](https://www.fidelity.com/)**{: .section-title}    
 *Bangalore, India | 1.5 years*
 
-**Software Engineer** *(Aug 2022 – Jun 2023)*                                                                     
+**Associate Software Engineer** *(Aug 2022 – Jun 2023)*                                                                     
 - Involved in Quantitative Research and Investments Technology (QRIT) team, primarily responsible for driving research, and development of innovative quant strategies/solutions. 
 - Developed Java tests using the Karate Framework and integrated with Jenkins, decreasing manual testing time.
 - Delivered cost-saving recommendations via actionable insights into instance sizing and CPU utilization, reducing operational costs by 15%. Improved UI functionalities for the Investment Operations Portal using Angular, CSS, and HTML resulting in a increase in user engagement.
