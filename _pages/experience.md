@@ -21,11 +21,12 @@ author_profile: true
 *Bethesda, MA, USA | (Present)*
 
 **Associate Software Engineer** *(Jan 2026 - Present)*
-- Building a secure admin portal for configuring loyalty partners and hotel properties using Java WebFlux, React.js, CI/CD Harness pipelines, and SQL.
+- Building a secure admin portal enabling 50+ internal teams to configure, review, and manage loyalty partners and hotel properties across Marriott's ecosystem; designed UX in Figma, built React frontend + Java WebFlux backend, modeled PostgreSQL schema, and integrated REST APIs.
+- Established CI/CD pipelines in Harness and Docker that reduced deployment cycles by ~40% and enabled consistent delivery across dev/test environments for the admin portal and decision tool.
 
 **FLEX Software Engineer** *(Jun 2025 – Dec 2025)*                                                       
-- Architected, developed, and deployed an enterprise-wide Business Decision Tool using Java Spring Boot, PostgreSQL, and Docker, enabling 10+ Internal Marriott systems to dynamically evaluate business logic— fully decoupling business rule management from application code.
-- Built a rule configurator and simulation dashboard using React, empowering business users to define, test, and validate rules in real-time, streamlining collaboration across multiple departments and improving workflow efficiency.
+- Deployed an LLM-powered Business Decision Tool that enabled business users to generate simulate, and validate executable rules across 10+ Marriott systems without touching code—powered by a natural-language-to-MVEL pipeline built on Spring Boot and React.
+- Designed and maintained a high-throughput event-driven architecture using Kafka, Redis, and optimized SQL queries to synchronize real-time configuration updates across partner and property systems, ensuring sub-second query latenc
 
 <br>
 
@@ -34,10 +35,10 @@ author_profile: true
 
 **Associate Software Engineer** *(Aug 2022 – Jun 2023)*                                                                     
 - Involved in Quantitative Research and Investments Technology (QRIT) team, primarily responsible for driving research, and development of innovative quant strategies/solutions. 
-- Developed Java tests using the Karate Framework and integrated with Jenkins, decreasing manual testing time.
-- Delivered cost-saving recommendations via actionable insights into instance sizing and CPU utilization, reducing operational costs by 15%. Improved UI functionalities for the Investment Operations Portal using Angular, CSS, and HTML resulting in a increase in user engagement.
+- Collaborated with the product team to enhance UI/UX for Fidelity's Investment Operations Portal, improving user workflows for tax-lot holdings, account onboarding, trade restrictions, and order tracking.
+- Built and deployed Java/Karate regression test suites in Jenkins CI/CD pipelines, reducing manual testing effort by ~50%.
 - Automated data retrieval with REST APIs, focusing on API design and microservices architecture, reducing manual effort and improving system modularity.
 
 **Software Engineer Intern** *(Jan 2022 – Jun 2022)*                                   
-- Developed a dashboard that automates the product health information extracted from various ALM tools (Sonar, Bitbucket, AWS, CloudBees, Snow, and Cloudability) into a unified platform. Deployed the dashboard for use, thereby helping employees in Fidelity speed the process 10x and eliminate manual work to require product health data.
-- Developed a dynamic Cloud Resilience dashboard for (AWS EC2, Snow, and Cloudability) automating compliance checks and criticality ratings, increasing the performance by 25% from the asset management team's previously used business insight and reporting tools.
+- Built a cloud cost-optimization dashboard by combining AWS EC2 capacity, Cloudability utilization and cost data, and ServiceNow ownership information to identify over-provisioned infrastructure and generate rightsizing recommendations, contributing to an approximately 15% reduction in infrastructure costs.
+- Developed an enterprise product health dashboard using Angular, Python/Flask and DynamoDB that aggregated data from SonarQube, Bitbucket, ServiceNow, and CloudBees, automating reporting workflows and delivering application health insights up to 10× faster.

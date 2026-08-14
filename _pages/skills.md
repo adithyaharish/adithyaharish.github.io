@@ -126,6 +126,10 @@ author_profile: true
       <span class="skill-name">Angular</span>
     </div>
     <div class="skill-item">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring WebFlux" class="skill-icon" />
+      <span class="skill-name">Spring WebFlux</span>
+    </div>
+    <div class="skill-item">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" class="skill-icon" />
       <span class="skill-name">Node.js</span>
     </div>
@@ -217,7 +221,7 @@ author_profile: true
     </div>
     <div class="skill-item">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="API Design" class="skill-icon" />
-      <span class="skill-name">API Design</span>
+      <span class="skill-name">REST APIs</span>
     </div>
     <div class="skill-item">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" alt="Test Automation" class="skill-icon" />
@@ -226,6 +230,10 @@ author_profile: true
     <div class="skill-item">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="System Design" class="skill-icon" />
       <span class="skill-name">System Design</span>
+    </div>
+    <div class="skill-item">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="Gen AI" class="skill-icon" />
+      <span class="skill-name">Gen AI</span>
     </div>
   </div>
 </div>

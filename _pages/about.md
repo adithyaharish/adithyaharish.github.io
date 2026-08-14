@@ -29,4 +29,4 @@ Please feel free to explore the other sections of this site to know more about m
 **August, 2018:** A 12th-grade student figuring out the next step — chose to pursue Computer Science from PSG Tech, and that decision shaped everything that followed.
 
 ---
-**Note:** *Site was last updated on Dec,2025*
+**Note:** *Site was last updated on May,2026*
